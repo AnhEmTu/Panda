@@ -1,20 +1,3 @@
-// ==UserScript==
-// @name         Bypass Yeumoney V2
-// @namespace    http://tampermonkey.net/
-// @version      2.0
-// @description  Bypass Yeumoney
-// @author       xGreen
-// @match        https://yeumoney.com/*
-// @match        https://docs.google.com/spreadsheets/*
-// @match        https://docs.google.com/forms/*
-// @grant        GM_xmlhttpRequest
-// @grant        GM_setValue
-// @grant        GM_getValue
-// @grant        GM_notification
-// @connect      *
-// @run-at       document-end
-// ==/UserScript==
-
 (function() {
     'use strict';
 
